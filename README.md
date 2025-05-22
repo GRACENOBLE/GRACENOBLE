@@ -1,43 +1,101 @@
-# 👋 Hey there, I’m Noble!
+# 👋🌍 ASIIMWE GRACE NOBLE: On a path to do something great. 🚀
 
-I'm a tech enthusiast and a self-taught developer with a passion for building and a thirst for innovation. I thrive at the intersection of software engineering, design, and dev communities. Ready for a challenge or something cool? Let's connect!
+## 🎯 Table of Contents
 
----
+* [About Me](#-about-me)
+* [My Technical Arsenal](#-my-technical-arsenal)
+* [What I'm Focused On](#-what-im-focused-on)
+* [Key Projects & Contributions](#-key-projects--contributions)
+* [My Development Philosophy](#-my-development-philosophy)
+* [Currently Open To](#-currently-open-to)
+* [Hobbies & Interests](#-hobbies--interests)
+* [Let's Connect!](#-lets-connect)
+* [Productivity Setup](#-productivity-setup)
+* [Acknowledgements](#-acknowledgements)
 
-### 👨‍💻 **About Me**  
-I’m an engineer with a love for everything that makes the tech world go round—coding, collaboration, and creative problem-solving. Whether I'm building robust full-stack applications or exploring new ways to leverage open-source tools, I’m all in.
+## 👨‍💻 About Me
 
-### 🎯 **What I’m Focused On**  
-- 🚀 Full-Stack Development: Next.js, React, Go
-- 🌐 Backend Mastery: APIs, PostgreSQL, and system architecture
-- 🛠 DevOps & Cloud Engineering
-- 👥 Community Engagement: Dev mentoring, open-source contributions, and building better tools for everyone
+Hey there! I'm Noble, a passionate Software Engineer based in Kampala, Uganda, with a robust background in TypeScript, Python, and Go. I'm a self-taught developer driven by an insatiable curiosity and a commitment to building innovative, high-quality software solutions.
 
-### 🔍 **Currently Open to...**
-- **🚀 Exciting engineering roles:** Backend, Full-Stack, or DevOps 
-- **📈 Consultation & Mentoring**  
-- **🛠 Open-Source Collaborations**
+I thrive at the intersection of complex problem-solving and creative implementation. Whether I'm architecting scalable backend systems, crafting intuitive user experiences, or diving deep into DevOps practices, my goal remains constant: to deliver excellence and make a tangible impact.
 
-### 🎲 **Hobbies That Keep Me Going**
-- ♟️ **Working out and nerding out**
-- 📚 **Stoic Philosophy and debates**
-- 🎶 **Music** (anything that fuels the vibe—especially lofi)
+## 🛠️ My Technical Arsenal
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+**Languages:**
 
-### 🎨 **Productivity Setup**  
-- **VS Code** with custom extensions for speed and aesthetics
-- **bash** i like to keep it simple
+* **TypeScript:** My go-to for robust, scalable frontend and backend applications.
+* **Go:** For high-performance, concurrent, and reliable backend services and APIs.
+* **Python:** Versatile for scripting, data processing, and backend tasks.
 
----
+**Frameworks & Libraries:**
 
-### ☕ **Let’s Connect!**  
-- 📧 **Email:** gracenoble72@gmail.com  
-- 🐙 **GitHub:** [ASIIMWE GRACE NOBLE](https://github.com/GRACENOBLE)  
-- 🌍 **LinkedIn:** [ASIIMWE GRACE NOBLE](https://www.linkedin.com/in/asiimwenoble)  
-- ☕ **Coffee lovers, let’s chat** (internet strangers are welcome, scammers - not so much)  
+* **Frontend:** Next.js, React
+* **Backend:** Node.js (with TypeScript), Go (standard library, Gorilla Mux)
+* **Databases:** PostgreSQL, Redis
+* **Styling:** Tailwind CSS
 
----
+**Tools & Platforms:**
 
-Thanks for stopping by!
+* **Version Control:** Git, GitHub
+* **Cloud & DevOps:** Docker, AWS (EC2, S3), CI/CD principles
+* **Testing:** Jest, Pytest, Cypress
+* **Other:** REST APIs, System Architecture, Webpack, Redux, Pandas
+
+## 🎯 What I'm Focused On
+
+* 🚀 **Full-Stack Development:** Mastering Next.js + React with powerful Go backends
+* 🌐 **Backend Mastery:** Designing efficient APIs and scalable system architectures
+* 🛠️ **DevOps & Cloud:** Automating infrastructure, CI/CD pipelines, AWS services
+* 👥 **Community Engagement:** Mentorship, open-source, and collaborative tooling
+
+## ✨ Key Projects & Contributions
+
+* **[better (TypeScript)](https://github.com/GRACENOBLE/better):** Collaborative whiteboard & AI tool for planning
+* **[weather-redis-server (Go)](https://github.com/GRACENOBLE/weather-redis-server):** Weather API server with Redis caching
+* **[TSK (Python)](https://github.com/GRACENOBLE/tsk-cli):** Terminal-based task management CLI
+* **[ecommerce (Go)](https://github.com/GRACENOBLE/ecommerce-go):** Scalable e-commerce backend with PostgreSQL
+
+Explore [my repositories](https://github.com/GRACENOBLE) for more.
+
+## 🧠 My Development Philosophy
+
+* **Clean Code & Best Practices:** SOLID principles, maintainable and testable code
+* **Problem-Solving First:** Deep problem understanding precedes solution design
+* **Continuous Learning:** Staying at the tech frontier through consistent exploration
+* **Collaboration & Communication:** Great software is a team sport
+* **User-Centric Design:** Prioritizing intuitive and delightful UX
+
+## 🔍 Currently Open To...
+
+* 🚀 **Engineering Roles:** Backend, Full-Stack, or DevOps
+* 📈 **Consulting & Mentorship:** Supporting aspiring developers
+* ⚒️ **Open-Source Contributions:** Building tools with community impact
+
+## 🎲 Hobbies & Interests
+
+* ♟ Working out and nerding out: Mind-body balance matters
+* 📚 Stoic Philosophy & Debates
+* 🎶 Lofi beats for deep work sessions
+
+## ☕ Let's Connect!
+
+* **Email:** [gracenoble72@gmail.com](mailto:gracenoble72@gmail.com)
+* **GitHub:** [GRACENOBLE](https://github.com/GRACENOBLE)
+* **LinkedIn:** [ASIIMWE GRACE NOBLE](https://www.linkedin.com/in/asiimwe-grace-noble)
+* **X (Twitter):** [@i\_am\_grace\_noble](https://twitter.com/i_am_grace_noble)
+* **Roadmap.sh:** [gracenoble](https://roadmap.sh/gracenoble)
+* **Daily.dev:** [gracenoble](https://app.daily.dev/gracenoble)
+
+*☕ Coffee lovers welcome, scammers not so much.*
+
+## 🎨 Productivity Setup
+
+* **VS Code:** Fully customized for speed and clarity
+* **Bash:** Simple, fast, powerful terminal experience
+
+## 🙏 Acknowledgements
+
+* To the vibrant open-source community for countless tools and inspiration
+* To mentors and collaborators who continue to shape my journey
+
+Thanks for stopping by! Your interest is deeply appreciated.
