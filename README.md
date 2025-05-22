@@ -5,7 +5,6 @@
 * [About Me](#-about-me)
 * [My Technical Arsenal](#-my-technical-arsenal)
 * [What I'm Focused On](#-what-im-focused-on)
-* [Key Projects & Contributions](#-key-projects--contributions)
 * [My Development Philosophy](#-my-development-philosophy)
 * [Currently Open To](#-currently-open-to)
 * [Hobbies & Interests](#-hobbies--interests)
@@ -31,7 +30,7 @@ I thrive at the intersection of complex problem-solving and creative implementat
 
 * **Frontend:** Next.js, React
 * **Backend:** Node.js (with TypeScript), Go (standard library, Gorilla Mux)
-* **Databases:** PostgreSQL, Redis
+* **Databases:** PostgreSQL(Supabase and Neon), Redis, SQLite
 * **Styling:** Tailwind CSS
 
 **Tools & Platforms:**
@@ -47,13 +46,6 @@ I thrive at the intersection of complex problem-solving and creative implementat
 * 🌐 **Backend Mastery:** Designing efficient APIs and scalable system architectures
 * 🛠️ **DevOps & Cloud:** Automating infrastructure, CI/CD pipelines, AWS services
 * 👥 **Community Engagement:** Mentorship, open-source, and collaborative tooling
-
-## ✨ Key Projects & Contributions
-
-* **[better (TypeScript)](https://github.com/GRACENOBLE/better):** Collaborative whiteboard & AI tool for planning
-* **[weather-redis-server (Go)](https://github.com/GRACENOBLE/weather-redis-server):** Weather API server with Redis caching
-* **[TSK (Python)](https://github.com/GRACENOBLE/tsk-cli):** Terminal-based task management CLI
-* **[ecommerce (Go)](https://github.com/GRACENOBLE/ecommerce-go):** Scalable e-commerce backend with PostgreSQL
 
 Explore [my repositories](https://github.com/GRACENOBLE) for more.
 
