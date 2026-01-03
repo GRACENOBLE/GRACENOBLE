@@ -96,6 +96,6 @@
 
 ###
 
-<p align="left"> &nbsp;&nbsp;&nbsp;&nbsp;🟡 Write some code<br> &nbsp;&nbsp;&nbsp;&nbsp;🟡 Wonder why it's not working<br> &nbsp;&nbsp;&nbsp;&nbsp;🟡 Read someone else's code and find out it's the same as yours<br> &nbsp;&nbsp;&nbsp;&nbsp;🟡 Spend 5 hours wondering why it is working and yours isn't<br> &nbsp;&nbsp;&nbsp;&nbsp;🟡 Find the "missing semicolon"<br> &nbsp;&nbsp;&nbsp;&nbsp;🟡 Destroy your pc <br> &nbsp;&nbsp;&nbsp;&nbsp;🔴 DO NOT DIE, Go touch some grass, then come back and repeat</p>
+<p align="left"> &nbsp;&nbsp;&nbsp;&nbsp;🟡 Write some code<br> &nbsp;&nbsp;&nbsp;&nbsp;🟡 Wonder why it's not working<br> &nbsp;&nbsp;&nbsp;&nbsp;🟡 Read someone else's code and find out it's the same as yours<br> &nbsp;&nbsp;&nbsp;&nbsp;🟡 Spend 5 hours wondering why yours isn't working<br> &nbsp;&nbsp;&nbsp;&nbsp;🟡 Find the "missing semicolon"<br> &nbsp;&nbsp;&nbsp;&nbsp;🟡 Destroy your pc <br> &nbsp;&nbsp;&nbsp;&nbsp;🔴 DO NOT DIE, Go touch some grass, then come back and repeat</p>
 
 ###
