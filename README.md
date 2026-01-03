@@ -1,7 +1,3 @@
-<img align="left" height="200" src="https://miro.medium.com/v2/resize:fit:496/format:webp/0*Kf8Cv4yPJLP8gJ0t.gif"  />
-
-###
-
 <h1 align="left">Hi, I am Grace Noble</h1>
 
 ###
@@ -10,11 +6,11 @@
 
 ###
 
-<h2 align="left">I use these and more</h2>
+<h2 align="left">I use this stuff and more</h2>
 
 ###
 
-<div align="left">
+<div align="left" style="padding-right: 20px">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
@@ -92,17 +88,14 @@
 
 ###
 
-<div align="right">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GRACENOBLE&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=GRACENOBLE&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-</div>
+<img align="left" height="200" src="https://miro.medium.com/v2/resize:fit:496/format:webp/0*Kf8Cv4yPJLP8gJ0t.gif"  />
 
 ###
 
-<div align="center">
-  <a href="https://open.spotify.com/user/mli5wdeh84cwwsq484ygv89jc">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=mli5wdeh84cwwsq484ygv89jc&count=5" alt="Spotify recently played"  />
-  </a>
-</div>
+<h3 align="left">&nbsp;&nbsp;&nbsp;&nbsp;A short story about Software Engineering</h3>
+
+###
+
+<p align="left"> &nbsp;&nbsp;&nbsp;&nbsp;🟡 Write some code<br> &nbsp;&nbsp;&nbsp;&nbsp;🟡 Wonder why it's not working<br> &nbsp;&nbsp;&nbsp;&nbsp;🟡 Read someone else's code and find out it's the same as yours<br> &nbsp;&nbsp;&nbsp;&nbsp;🟡 Spend 5 hours wondering why it is working and yours isn't<br> &nbsp;&nbsp;&nbsp;&nbsp;🟡 Find the "missing semicolon"<br> &nbsp;&nbsp;&nbsp;&nbsp;🟡 Destroy your pc <br> &nbsp;&nbsp;&nbsp;&nbsp;🔴 DO NOT DIE, Go touch some grass, then come back and repeat</p>
 
 ###
