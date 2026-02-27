@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">💠 I like the Kawasaki Ninja --- just a masterpiece of ingenuity.<br>💠 I like GYM --- I hope to own a chain of fitness centers or at worst a GYM of my own!<br>💠 I like cats --- They are fluffy.<br>💠 NF is the GOAT --- Real music.</p>
+<p align="left">💠 I am an engineer that likes to build unique things, challenge my brain and solve puzzles.</p>
 
 ###
 
