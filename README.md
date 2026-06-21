@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">💠 I am an engineer that likes to build unique things, challenge my brain and solve puzzles.</p>
+<p align="left">💠 I exist to push the boundary of what is known to be possible, inspired by the fear of being average.</p>
 
 ###
 
